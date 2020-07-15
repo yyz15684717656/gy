@@ -1,0 +1,86 @@
+[
+    {
+        "id":0,
+        "brandImage":"http://d.vpimg1.com/upcb/2020/05/21/49/ias_3e5bf371-8b49-47fa-8162-52236a47e55c_570x273_90.jpg",
+        "salesName": "丸美MARUBI今日大牌护肤品专场",
+        "agio":"<em>1.4</em>择起"
+
+    },
+    {
+        "id":1,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/07/14/132/ias_159469294802110_570x273_90.jpg",
+        "salesName": "秋水伊人今日大牌女装专场",
+        "agio":"<em>4.4</em>择封顶"
+
+    },{
+        "id":2,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/06/30/85/ias_159350339818452_570x273_90.jpg",
+        "salesName": "斯凯奇运动潮流鞋服专场",
+        "agio":"<em>1.8</em>择起"
+
+    },
+    {
+        "id":3,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/06/19/79/ias_159253670133412_570x273_90.jpg",
+        "salesName": "太平鸟男装-7月特惠专场",
+        "agio":"<em>0.8</em>择起"
+
+    },
+    {
+        "id":4,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/05/22/76/ias_159011758192087_570x273_90.jpg",
+        "salesName": "安德玛UNDER ARMOUR-运动鞋服专场",
+        "agio":"<em>1.8</em>择起"
+
+    },
+    {
+        "id":5,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/06/28/162/ias_159332807149946_570x273_90.jpg",
+        "salesName": "戴维贝拉婴幼童服饰-今日大牌专场",
+        "agio":"<em>2.1</em>择起"
+
+    },
+    {
+        "id":6,
+        "brandImage":"https://d.vpimg1.com/upcb/2020/05/22/47/ias_159011151740249_570x273_90.jpg",
+        "salesName": "潘多拉PANDORA轻奢饰品特惠专场",
+        "agio":"<em>2</em>择起"
+
+    },
+    {
+        "id":7,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/06/01/129/ias_06740403-c650-4ca5-8089-2014797ae3a6_570x273_90.jpg",
+        "salesName": "丽丽女装专场",
+        "agio":"<em>5</em>择封顶"
+
+    },
+    {
+        "id":8,
+        "brandImage":"https://d.vpimg1.com/upcb/2020/05/29/70/ias_3e008bbb-e8c5-46ad-b8ee-343e643eb852_570x273_90.jpg",
+        "salesName": "GXG鞋包服饰专场",
+        "agio":"<em>4.8</em>择封顶"
+
+    },
+    {
+        "id":9,
+        "brandImage":"https://d.vpimg1.com/upcb/2020/07/13/119/ias_159462416486123_570x273_90.jpg",
+        "salesName": "Mini Balabala童装童鞋专场",
+        "agio":"<em>2.3</em>择起"
+
+    },
+    {
+        "id":10,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/07/03/185/ias_667e9536-b9c9-41f9-9899-5ccd6fd689b3_570x273_90.jpg",
+        "salesName": "马克华菲男装专场",
+        "agio":"<em>5</em>择封顶"
+
+    },
+    {
+        "id":11,
+        "brandImage":"https://c.vpimg1.com/upcb/2020/06/22/105/ias_d4fb901b-3ac0-4a6a-9166-373ce0870fb6_570x273_90.jpg",
+        "salesName": "DICKIES箱包专场",
+        "agio":"<em>1.5</em>择起"
+
+    }
+
+]
